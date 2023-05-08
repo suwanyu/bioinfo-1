@@ -3,3 +3,7 @@
 ### 1주차. Guided Mission1
   - GuidedMission1.ipynb
   - GuidedMission1.png
+
+### 2주차. Guided Mission2
+  - GuidedMission2.ipynb
+  - GuidedMission2.png
