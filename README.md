@@ -7,3 +7,9 @@
 ### 2주차. Guided Mission2
   - GuidedMission2.ipynb
   - GuidedMission2.png
+
+### 3주차. Guided Mission3
+  - GuidedMission3.ipynb
+  - mirlet7d.pdf
+  - mirlet7f-1.pdf
+  - mirlet7g.pdf
