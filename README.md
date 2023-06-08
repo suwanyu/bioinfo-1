@@ -14,6 +14,6 @@
   - mirlet7f-1.pdf
   - mirlet7g.pdf
 
-### 자유주제 프로젝트
+### TermProject
   - 주제: Figure 5A 재현하기
-  - 진행중
+  - 진행 완료
